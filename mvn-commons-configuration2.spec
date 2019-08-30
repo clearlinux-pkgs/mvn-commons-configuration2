@@ -4,7 +4,7 @@
 #
 Name     : mvn-commons-configuration2
 Version  : 2.1.1
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/apache/commons/commons-configuration2/2.1.1/commons-configuration2-2.1.1.jar
 Source0  : https://repo1.maven.org/maven2/org/apache/commons/commons-configuration2/2.1.1/commons-configuration2-2.1.1.jar
 Source1  : https://repo1.maven.org/maven2/org/apache/commons/commons-configuration2/2.1.1/commons-configuration2-2.1.1.pom
